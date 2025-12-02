@@ -1,6 +1,5 @@
 ![Cypress Tests](https://github.com/shahabroknidoost/cypress-testing-portfolio/actions/workflows/tests.yml/badge.svg)
 
-
 # Cypress Test Automation Portfolio
 
 A hands-on project I built to practice test automation with Cypress. Covers both UI testing and API testing using real-world patterns.
