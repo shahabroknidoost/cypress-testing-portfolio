@@ -1,3 +1,7 @@
+![Cypress Tests](https://github.com/shahabroknidoost/cypress-testing-portfolio/actions/workflows/tests.yml/badge.svg)
+
+# Cypress Test Automation Portfolio
+# Cypress Test Automation Portfolio
 # Cypress Test Automation Portfolio
 
 A hands-on project I built to practice test automation with Cypress. Covers both UI testing and API testing using real-world patterns.
@@ -104,12 +108,6 @@ Full CRUD coverage with proper status code validation:
 - Custom commands reduce duplication significantly
 - Proper error handling needs `failOnStatusCode: false`
 
-## Roadmap
-
-- [ ] Add fixtures for data-driven tests
-- [ ] Implement CI/CD with GitHub Actions
-- [ ] Add visual regression testing
-- [ ] Create more Page Objects for other pages
 
 ## Connect
 
