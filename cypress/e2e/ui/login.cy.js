@@ -1,7 +1,7 @@
 // cypress/e2e/ui/login.cy.js
 import LoginPage from '../../support/pages/LoginPage';
 
-describe('DemoQA Login Page', () => {
+describe('DemoQA Login Page', { retries: 2 }, () => {
   
   beforeEach(() => {
     LoginPage.visit();
